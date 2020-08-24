@@ -1,5 +1,7 @@
 ## covid-19 tracker
 
+you can acces [here](https://0529bill.github.io/covid-19-tracker/)
+
 ## tools or packages being used in the project
 
 1. chart js
